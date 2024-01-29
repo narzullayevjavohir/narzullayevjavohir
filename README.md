@@ -30,7 +30,7 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,nuxtjs,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,vue,nuxtjs,nodejs&perline=14" />
   </a>
 </p>
 <br>

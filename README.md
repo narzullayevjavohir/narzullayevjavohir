@@ -44,7 +44,7 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
   </a>
   <a href="narzullayevjavohir91@gmail.com">
-  <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" style="width: 50px; height: 50px" alt="gmail" />
+  <img src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" style="width: 50px; height: 50px" alt="gmail" />
   </a>
 </div>
   

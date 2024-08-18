@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm Fullstack Developer</h1>
 <br>
 <div>
   <h2>🙂 Soft Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h1>

@@ -33,22 +33,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,vue,nuxtjs,nodejs,nestjs&perline=14" />
   </a>
 </p>
-<br>
-<div align="center">
-<h3 align="center">Connect with me:</h3>
-<div style="display: flex; gap: 50px;">
-  <a href="https://t.me/narzullayev_developer">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px;" alt="telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/javohir-narzullayev-586342235">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
-  </a>
-  <a href="narzullayevjavohir91@gmail.com">
-  <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" style="width: 50px; height: 50px" alt="gmail" />
-  </a>
-</div>
-  
-<p align="center">
-    
-</p>
-</div>
